@@ -45,7 +45,7 @@ How to Run
 Clone the repository and install the required libraries:  
 
 pip install -r requirements.txt  
-Download the dataset from Google Drive.  
+Download the dataset from Google Drive https://drive.google.com/drive/folders/1M_LPg52KuGahlnsa0kmeFUQpBGJA00ll.  
 
 Place images in:  
 data/img_align_celeba/  
